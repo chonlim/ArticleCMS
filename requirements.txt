@@ -1,4 +1,4 @@
-setuptools==39.0.1
+setuptools==65.3.0
 pip==22.2.2
 distlib==0.3.6
 alembic==1.4.0
