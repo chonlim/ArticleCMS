@@ -1,3 +1,6 @@
+setuptools==65.3.0
+pip==22.2.2
+distlib==0.3.6
 alembic==1.4.0
 azure-common==1.1.24
 azure-nspkg==3.0.2
